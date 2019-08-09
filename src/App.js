@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        This is a test page for study.
+    <div className="app">
+      <header className="header">
+        <a className="link" href="/1/index.html">白鹭引擎初探</a>
       </header>
     </div>
   );
